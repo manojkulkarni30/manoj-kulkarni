@@ -1,2 +1,2 @@
-# manoj-kulkarni
-My blog articles
+# README
+This repository constains my blog articles.
